@@ -3,7 +3,7 @@ A 22-year-old data analyst, I have a strong interest in tech in general and AI a
 
 
 ## I'm currently learning:
-I think the real value of scraping is when you do it at scale, and for that you need to know a lot. That's why I am learning:
+I think the real value of scraping is when you do it at scale, and for that I need to know a lot. That's why I am learning:
 
 - Foundational Computer Networking: OSI Model, DNS, TCP & UDP, SSL and TLS, IP Address, MAC Address, ARP Protocol, Routers, Switches, Hubs, etc.
 - API Design: How REST and GraphQL APIs work, as they are the most used on the internet.
