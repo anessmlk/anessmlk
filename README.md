@@ -3,9 +3,10 @@ A 22-year-old data analyst, I have a strong interest in tech in general and AI a
 
 
 ## I'm currently learning:
-I think the real value of scraping is when you do it at scale and for that I you need to know a lot, that's why I am learning
-- Foundational Computer Networking: OSI Model, DNS, TCP & UDP, SSL and TLS, IP Address, MAC Address, ARP Protocol, Routers, Switchs, Hubs, ..etc.
-- API Design: How REST and GraphQL API's works, because they are the most used in internet.
-- Scrapy, Playwright, and advanced python (context managers, asynchronous programming, dunder methods, generators)
-- How Browsers Works: HTTP Protocol, Rendering methods, DOM, CSSOM, ..etc.
-- Data Engineering: Implement the ETL pipeline (Airflow and Data Modeling)
+I think the real value of scraping is when you do it at scale, and for that you need to know a lot. That's why I am learning:
+
+- Foundational Computer Networking: OSI Model, DNS, TCP & UDP, SSL and TLS, IP Address, MAC Address, ARP Protocol, Routers, Switches, Hubs, etc.
+- API Design: How REST and GraphQL APIs work, as they are the most used on the internet.
+- Tools & Advanced Python: Scrapy, Playwright, and advanced Python (context managers, asynchronous programming, dunder methods, generators).
+- How Browsers Work: HTTP Protocol, Rendering methods, DOM, CSSOM, etc.
+- Data Engineering: Implementing the ETL pipeline (Airflow and Data Modeling).
