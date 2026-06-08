@@ -1,5 +1,5 @@
 # Hello, I'm Aness 👋
-A 22-year-old data analyst, I have a strong interest in tech in general and AI architectures in particular; currently, I am exploring **Graph Deep Learning**.
+A Data analyst, I have a strong interest in tech in general and AI architectures in particular; currently, I am exploring **Graph Deep Learning**.
 
 ## I'm currently learning:
 I think the real value of scraping is when you do it at scale, and for that I need to know a lot. That's why I am learning:
